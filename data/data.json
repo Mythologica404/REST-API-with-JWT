@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Mythologica404",
+      "password": "restapi_jwt"
+    },
+    {
+      "id": 2,
+      "username": "Darkney",
+      "password": "3215124"
+    }
+  ],
+  "todos": [
+    {
+      "id": 1,
+      "todo": "Learn nodeJS",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "todo": "Join Hacktiv8",
+      "userId": 1
+    },
+    {
+      "id": 3,
+      "todo": "Filling my logbook",
+      "userId": 2
+    },
+    {
+      "id": 4,
+      "todo": "Finishing my assignment",
+      "userId": 2
+    },
+    {
+      "id": 5,
+      "todo": "Doing my final project",
+      "userId": 1
+    }
+  ]
+}
